@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GearCraft",
+  "name": "GearCraft mod",
+  "description": "Add gaming features.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheRealBuggy", "JonathanxD"],
+  "credits": "The Forge, and me :P",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
