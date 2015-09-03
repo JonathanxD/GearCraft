@@ -30,4 +30,7 @@ Now open eclipse and set workspace as /eclipse/
 
 For IntelliJ users read [How to setup forge workspace in IntelliJ](/INTELLIJ-How-to-setup.md)
 
+
+## Windows users use: 'gradlew setupDecompWorkspace' and 'gradlew eclipse' instead of './gradlew'
+
 ### Bugs? This process not works? Report in issue section
